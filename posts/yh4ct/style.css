@@ -1,0 +1,22 @@
+.ct10 {
+    padding: 0;
+    margin: 25px 25px 0 0;
+    display: inline-block;
+}
+.ct12 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #666;
+    border-radius: 15px;
+}
+.ct14 {
+    display: block;
+}
+.ct16 {
+    font-size: x-large;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+ct18 {
+    font-size: 15px;
+}
